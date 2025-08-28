@@ -1,4 +1,4 @@
-#include "flash.h"
+#include "flash_cmd.h"
 
 
 int main(void)
