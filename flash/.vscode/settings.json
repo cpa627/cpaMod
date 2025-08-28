@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "flash_cmd.h": "c",
+        "stm32_flash.h": "c"
+    }
+}
